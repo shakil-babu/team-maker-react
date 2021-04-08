@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.single-player-card{
+    background: rgba(255, 255, 255, 0.795);
+    padding: 10px 20px;
+    margin-top: 30px;
+    height: 380px;
+    border-radius: 15px;
+}
+
+.single-player-card .player-img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: auto !important;
+    border: 10px solid #D980FA;
+}
+.more-info h4{
+    text-align-last:  left !important;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding-top: 20px;
+}
+.more-info h5{
+    padding-top: 20px;
+    font-size: 15px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 1px;
+}
+.position{
+    font-size: 15px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: left !important ;
+    letter-spacing: 3px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+    padding: 0;
+
+}
+.price-info{
+    font-size: 30px !important;
+}
+
+.btn{
+    background: #D980FA !important;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+    outline: none !important;
+}

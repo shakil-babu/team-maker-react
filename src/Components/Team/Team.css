@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.selected-players{
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    background:#D980FA;
+    padding: 5px;
+    margin-top: 10px;
+}
+.selected-players li {
+    list-style: none;
+    color: rgb(241, 255, 245);
+}
+
+.total-budget{
+    margin: 30px auto;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    color: #fff;
+}
+
+.budget{
+    margin-left: 5px;
+    color: orange;
+}

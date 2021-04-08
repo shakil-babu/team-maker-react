@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+.grid-area{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.buy-area{
+    border-left: 2px solid #fff;
+    margin-top: 30px;
+}
+
+.team-container{
+    background: rgba(70, 69, 69, 0.671);
+    padding: 10px;
+}
+.title{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    background: #D980FA;
+    padding: 5px;
+    color:#000;
+}

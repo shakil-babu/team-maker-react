@@ -1,0 +1,112 @@
+[{
+    "id": 1,
+    "name": "Mahmudullah Riyad",
+    "age": "35 years",
+    "role": " All-rounder",
+    "salary":500,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/5/3555.1506323472.jpg",
+    "batingStyle":"Right Handed",
+    "bowlingStyle":"Right Arm off spin"
+  },{
+    "id": 2,
+    "name": "Rubel Ahmed",
+    "age": "31 Years",
+    "role": "Bowler",
+    "salary":300,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/4040.1506323400.jpg",
+    "batingStyle":"Right handed",
+    "bowlingStyle":"Right Arm fast seam"
+  },
+  {
+    "id": 3,
+    "name": "Afif hossain",
+    "age": "22 years",
+    "role": "All rounder",
+    "salary":290,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/10830.1571724978.jpg",
+    "batingStyle":"Left handed",
+    "bowlingStyle":"Right Arm Off spin"
+  },
+  {
+    "id": 4,
+    "name": "Mohammed mithun",
+    "age": "30 Years",
+    "role": "Wicket Keeper",
+    "salary":345,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/8/4488.1559279480.jpg",
+    "batingStyle":"Right Handed",
+    "bowlingStyle":"Right arm off spin"
+  },{
+    "id": 5,
+    "name": "Mosaddek Hossain",
+    "age": "26 Years",
+    "role": "Batsman",
+    "salary":150,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/5560.1506323656.jpg",
+    "batingStyle":"Right handed",
+    "bowlingStyle":"Right arm off spin"
+  },{
+    "id": 6,
+    "name": "Mushfiqur Rahim",
+    "age": "27 Years",
+    "role": "Wicket Keeper",
+    "salary":700,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/9/3279.1506323675.jpg",
+    "batingStyle":"Right Handed",
+    "bowlingStyle":"Left Arm Orthodox"
+  },{
+    "id": 7,
+    "name": "Tamim Iqbal",
+    "age": "32 Years",
+    "role": "Batsman",
+    "salary":850,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/7/3497.1506324086.jpg",
+    "batingStyle":"Left Handed",
+    "bowlingStyle":"Right Arm off spin"
+  },{
+    "id":8,
+    "name": "Taskin Ahmed",
+    "age": "26 Years",
+    "role": "Bowler",
+    "salary":380,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/3/5563.1506324115.jpg",
+    "batingStyle":"Left Handed",
+    "bowlingStyle":"Right Arm Fast Seam"
+  },{
+    "id": 9,
+    "name": "Mehedi Hasan",
+    "age": "24 Years",
+    "role": "All Rounder",
+    "salary":650,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/0/6750.1506323385.jpg",
+    "batingStyle":"Right Handed",
+    "bowlingStyle":"Right Arm Off Spin"
+  },{
+    "id": 10,
+    "name": "Mostafizur Rahman",
+    "age": "26 Years",
+    "role": "Bowler",
+    "salary":400,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/2/6752.1506323718.jpg",
+    "batingStyle":"Left Handed",
+    "bowlingStyle":"Left Arm Fast Seam"
+  },{
+    "id": 11,
+    "name": "Al-Amin Hossain",
+    "age": "31 Years",
+    "role": "Bowler",
+    "salary":250,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/7/6757.1571725264.jpg",
+    "batingStyle":"Left Handed",
+    "bowlingStyle":"Left Arm Fast Seam"
+  },{
+    "id": 12,
+    "name": "Mohammed Saif",
+    "age": "27 Years",
+    "role": "All Rounder",
+    "salary":290,
+    "img":"https://bengali.mykhel.com/thumb/247x100x233/cricket/players/1/6751.1559279894.jpg",
+    "batingStyle":"Left Handed",
+    "bowlingStyle":"Right Arm Medium Seam"
+  }
+]
